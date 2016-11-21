@@ -1,0 +1,117 @@
+\chapter{Lichtbeugung an Spalt und Gitter}
+In diesem Versuch soll das auch in der Spektroskopie Anwendung findende Prinzip der Beugung elektromagnetischer Wellen an einem oder mehreren Spalten genauer untersucht werden. Hierzu wird mit monochromatischem Licht gearbeitet, sodass aus der Theorie bekannte Beugungsgesetze, die in der Regel von der Wellenlänge des benutzten Lichts abhängen, möglichst gut überprüft werden können. Hier sollen zunächst die Zusammenhänge für den Einzelspalt angegeben werden:
+\begin{align*}
+	\sin(\phi_{k,min})&=\frac{\lambda}{b}\cdot k\\
+	\sin(\phi_{k,max})&=\frac{\lambda}{b}\cdot\Big(k+\frac{1}{2}\Big)\\
+	\phi_{0,max}&=0
+\end{align*}
+Hierbei ist $\lambda$ die Wellenlänge, $b$ die Spaltbreite und $k\in\IN$ die Beugungsordnung.
+
+Fügt man einen zweiten Spalt (mit gleicher Spaltbreite) im Abstand $d$ hinzu, so erhält man zusätzlich zu den Beugungsextrema Interferenzeffekte, die ebenfalls zu Extrema führen, die sich folgendermaßen berechnen:
+\begin{align*}
+	\sin(\Psi_{m,min})&=\frac{\lambda}{d}\Big(m+\frac{1}{2}\Big)\\
+	\sin(\Psi_{m,max})&=\frac{\lambda}{d}\cdot m
+\end{align*}
+Hierbei ist $m\in\IN_{0}$
+
+Erweitert man diesen Aufbau erneut zu einem Gitter mit $N$ gleich breiten Spalten im gleichen Abstand, so ergibt sich eine etwas unhandlichere Beziehung für die Intensität des Lichtes in Richtung $\phi$:
+\begin{displaymath}
+	I(\phi)=\Bigg(\frac{\sin\Big(\frac{\pi b}{\lambda}\sin\phi\Big)}{\frac{\pi b}{\lambda}\sin\phi}\Bigg)^2\Bigg(\frac{\sin\Big(\frac{N\pi b}{\lambda}\sin\phi\Big)}{\sin\Big(\frac{\pi b}{\lambda}\sin\phi\Big)}\Bigg)^2
+\end{displaymath}
+\section{Vorbereitung}
+\begin{enumerate}
+	\item Nehmen Sie an, die Beugung findet nicht in Luft $(n\approx1)$, sondern in Wasser statt $(n>1)$. Wie ändert sich das Beugungsbild?
+		\subitem Da Wasser ein optisch dichteres Medium ist, als Luft, wird die Wellenlänge verringert:
+		\begin{displaymath}
+			\lambda'=\frac{c'}{\nu}=\frac{c}{\nu}\cdot\frac{1}{n}=\frac{\lambda_0}{n}
+		\end{displaymath}
+		Dies bedeutet, da $\phi\in[0,\frac{\pi}{2}]$, dass die Winkel, unter denen die Extrema auftreten, kleiner werden.
+	\item Es werde zuerst das Beugungsbild eines Doppelspaltes fotografisch aufgenommen; auf einem gleichartigen Film werden dann nacheinander die Beugungsfiguren beider Einzelspalte auf demselben Film aufgenommen. Insgesamt werden beide Filme gleich lange belichtet. Vergleichen Sie die Beugungsbilder miteinander. Erklären Sie Gleichheit oder Ungleichheit.
+		\subitem Die Beugungsbilder unterscheiden sich, da die physikalischen Vorgänge nicht vollkommen gleich sind. Werden die Bilder der Einzelspalte aufgenommen, so addieren sich schlichtweg die Intensitäten:
+		\begin{displaymath}
+			I=I_1+I_2
+		\end{displaymath}
+		Beim Doppelspalt werden hingegen die Felder addiert, nicht die Intensität. Diese ist proportional zum Feldquadrat:
+		\begin{displaymath}
+			I\propto\vec{E}^2=(\vec{E}_1+\vec{E}_2)^2=\underbrace{\vec{E}_1^2}_{\propto I_1}+\underbrace{\vec{E}_2^2}_{\propto I_2}+2\vec{E}_1\cdot\vec{E}_2
+		\end{displaymath}
+		Die Gesamtintensität ist beim Doppelspalt daher nicht identisch mit der zweier Einzelspalten.
+	\item Nehmen Sie an, bei einem Doppelspalt werden die beiden Spalte jeweils von verschiedenen Lasern beleuchtet. Wie würde sich das Beugungsbild gegenüber dem üblichen Experiment ändern?
+		\subitem Wenn die Laser die gleiche Wellenlänge abstrahlen, ergibt sich das (bis auf durch eventuelle Phasenunterschiede hervorgerufene Schwebungen) gleiche Beugungsbild, wie bei der normalen Beugung des Lichtes einer Lichtquelle an einem Doppelspalt. Weisen die Laser unterschiedlicher Wellenlängen auf, so wirkt jeder Spalt als Einzelspalt für die jeweilige Lichtquelle.
+	\item Nehmen Sie an, ein Laserstrahl wird durch Spiegel aufgespalten und die beiden Strahlen beleuchten je einen Spalt. Besteht ein Unterschied zu dem vorher geschilderten Fall? Wenn ja, erklären Sie, weshalb.
+		\subitem Wird der Laser aufgespalten, so können Phasenunterschiede zwischen den Teilstrahlen entstehen, was wie im obigen Fall zu Schwebungen führen kann. Ansonsten ergibt sich das gleiche Bild
+	\item Wie ändert sich das Beugungsbild eines Spaltes, wenn dieser statt mit einem Laser mit Licht einer Hg-Dampflampe beleuchtet wird?
+		\subitem Das Licht einer Quecksilberlampe ist nicht monochromatisch, sondern weißt im sichtbaren Bereich gleich 6 unterschiedliche Emissionslinien auf, die daher auch unterschiedlich gegbeugt werden. Daher kann man im Beugungsbild Extrema unterschiedlicher Wellenlängen an unterschiedlichen Orten beobachten.
+	\item Was unterscheidet Fraunhofer- und Fresnel-Beugung?
+		\subitem Die Fraunhofer-Näherung der Lichtbeugung ist eine Fernfeldnäherung, die Fresnel-Näherung hingegen eine Nahfeldnäherung. Dies hat zur Folge, dass beispielsweiße das Beugungsintegral unter der Fraunhofer'schen Betrachtung recht einfach zu lösen ist, da es lediglich die Form einer Fourier-Transformierten hat. In Fresnel-Näherung hingegen ist dies nicht der Fall, und das Beugungsintegral ist im Allgemeinen nur numerisch zu lösen.
+	\item Leiten Sie für den Einfachspalt die Formel $I(\phi)=I_0\Big(\frac{\sin\frac{\theta}{2}}{\frac{\theta}{2}}\Big)^2$ mit $\theta=\frac{2\pi}{\lambda}\cdot b\cdot\sin\phi$ und $I_0=I(\phi=0)$ für die Intensitätsverteilung in Abhängigkeit vom Beugungswinkel $\phi$ ab.
+	
+	Berechnen Sie das Intensitätsverhältnis $I(\phi_{k,max})/I(\phi=0)$ für die erste $(k=1)$ und zweite $(k=2)$ Beugungsordnung.
+		\subitem Das elektrische Feld am Schirm erhält man zunächst durch Fouriertransformation:
+		\begin{multline*}
+			E(k_x,k_y)=E_0\int_{-\infty}^{\infty}\d x\int_{-\infty}^{\infty}\d y\Sigma_{Spalt}\e{-\imath k_xx}\e{-\imath k_yy}=E_0\delta(k_y)\cdot\int_{-\frac{b}{2}}^{\frac{b}{2}}\e{-\imath k_xx}\d x\\
+			=E_0\delta(k_y)\frac{\e{-\imath k_x\frac{b}{2}}-\e{\imath k_x\frac{b}{2}}}{k_x}=E_0\cdot b\cdot\delta(k_y)\frac{\sin(k_x\frac{b}{2})}{k_x\frac{b}{2}}\\
+			\Rightarrow I(k_x)=E(k_x)^2=I_0\frac{\sin^2(k_x\frac{b}{2})}{(k_x\frac{b}{2})^2}
+		\end{multline*}
+		Mit $k_x=\sin\phi\cdot\frac{2\pi}{\lambda}$ und $\theta=\frac{2\pi}{\lambda}\cdot b\cdot\sin\phi$ folgt:
+		\begin{displaymath}
+			I(\phi)=I_0\frac{\sin^2(\frac{\pi\cdot b}{\lambda}\sin\phi)}{(\frac{\pi\cdot b}{\lambda}\sin\phi)^2}=I_0\frac{\sin^2(\frac{\theta}{2})}{(\frac{\theta}{2})^2}
+		\end{displaymath}
+		Für die $k$-te Beugungsordnung gilt:
+		\begin{displaymath}
+			\sin(\phi_{k,max})=\frac{\lambda}{b}\Big(k+\frac{1}{2}\Big)
+		\end{displaymath}
+		Für die zu berechnenden Intensitätsverhältnisse erhält man somit:
+		\begin{align*}
+			\frac{I(\phi_{k,max})}{I_0}&=\frac{I_0\frac{\sin^2(\frac{\pi b}{\lambda}\sin\phi)}{\frac{\pi b}{\lambda}\sin\phi}}{I_0}=\frac{\sin^2(\frac{\pi b}{\lambda}\cdot\frac{\lambda}{b}(k+\frac{1}{2}))}{(\frac{\pi b}{\lambda}\cdot\frac{\lambda}{b}(k+\frac{1}{2}))^2}=\frac{\sin^2(\pi(k+\frac{1}{2}))}{(\pi(k+\frac{1}{2}))^2}\\
+			\frac{I(\phi_{1,max})}{I_0}&=\frac{\sin^{2}(\pi(1+\frac{1}{2}))}{(\pi(1+\frac{1}{2}))^2}=\frac{4}{9\pi^2}\approx 0.045\\
+			\frac{I(\phi_{2,max})}{I_0}&=\frac{sin^2(\pi(2+\frac{1}{2}))}{(\pi(2+\frac{1}{2}))^2}=\frac{4}{25\pi^2}\approx 0.016
+		\end{align*}
+	\item Verifizieren Sie für den Doppelspalt den Ausdruck $I(\phi)=4\cdot I_0\cdot(\frac{\sin\frac{\theta}{2}}{\frac{\theta}{2}})^2\cdot\cos^2\frac{\delta}{2}$ mit $\theta=\frac{2\pi}{\lambda}\cdot b\cdot\sin\phi$ und $\delta=\frac{2\pi}{\lambda}\cdot d\sin\phi$ und $I_0$ aus Frage 7. Begründen Sie anschaulich das Auftreten des Faktors 4 und berechnen Sie die Intensität des ersten Nebenmaximums $m=1$ relativ zum nullten in Abhängigkeit von Spaltbreite $b$ und Spaltabstand $d$. Für welches Verhältnis $d/b$ fällt das fünfte Nebenmaximum mit dem ersten Haupt-Minimum zusammen?
+		\subitem Wie bereits oben beschrieben, werden beim Doppelspalt die Felder der hier um $\pm\frac{d}{2}$ verschobenen Einzelspalte überlagert. Bei der Fouriertransformation taucht nun ein zusätzlicher Phasenterm auf:
+		\begin{displaymath}
+			E_{Spalt,\nu}=E_{Spalt}\cdot\e{-\imath k_xx\frac{d}{2}}
+		\end{displaymath}
+		Für den Doppelspalt ergibt sich somit:
+		\begin{displaymath}
+			E_{DS}=E_{Spalt}\Big(\e{-\imath k_xx\frac{d}{2}}+\e{\imath k_xx\frac{d}{2}}\Big)=2\cdot E_0\frac{\sin(\frac{\theta}{2})}{\frac{\theta}{2}}\cdot\cos\Big(\frac{\pi\cdot d}{\lambda}\sin\phi\Big)
+		\end{displaymath}
+		Mit dem angegebenen $\delta$ berechnet sich die Intensität durch Quadrieren der Feldstärke zu
+		\begin{displaymath}
+			I_{DS}=4\cdot I_0\cdot\Big(\frac{\sin\frac{\theta}{2}}{\frac{\theta}{2}}\Big)^2\cdot\cos^2\Big(\frac{\delta}{2}\Big)
+		\end{displaymath}
+		Der Faktor $4$ taucht also auf, weil zunächst zwei Felder gleichre Amplitude addiert werden, und das resultierende Feld $2E_0$ anschließend quadriert wird.
+		
+		Für das Nebenmaximum $m$-ter Ordnung gilt:
+		\begin{displaymath}
+			\sin\Psi=\frac{\lambda}{d}\cdot m
+		\end{displaymath}
+		Damit erhält man für das Verhältnis der Intensitäten des ersten zum nullten Nebenmaximum analog zu Aufgabe 7:
+		\begin{displaymath}
+			\frac{I(\Psi_{1,max})}{I_0}=\Bigg(\frac{\sin(\frac{\pi b}{d})}{\frac{\pi b}{d}}\Bigg)^2
+		\end{displaymath}
+		Damit das 5. Nebenmaximum mit dem erten Hauptminimum zusammenfällt, muss gelten:
+		\begin{displaymath}
+			\frac{\lambda}{d}\cdot 5=\frac{\lambda}{b}\Rightarrow\frac{d}{b}=5
+		\end{displaymath}
+\end{enumerate}
+\section{Durchführung}
+\subsection{Beugungsbild des Einfachspaltes}
+\begin{enumerate}[label=\alph*)]
+	\item Nehmen Sie die Intensitätskurve der Beugungsfigur eines Einfachspaltes auf.
+	\item Berechnen Sie aus Ihren Messdaten die Spaltbreite. Finden Sie eine andere optische Messmethode zur Bestimmung der Spaltbreite und vergleichen Sie beide Ergebnisse miteinander.
+	\item Werten Sie auch die Intensitätsverhältnisse aus und vergleichen Sie die Ergebnisse mit der Beugungstheorie.
+\end{enumerate}
+\subsection{Beugungsbild des Doppelspaltes}
+\begin{enumerate}[label=\alph*)]
+	\item Wiederholen Sie die obige Messung für einen Doppelspalt. Was fällt am Beugungsbild, was an der Intensitätskurve des Beugungsbildes auf?
+	\item Erklären Sie die Intensitätskurven mit der Beugungstheorie.
+	\item Kontrollieren Sie das Verhältnis der Intensitäten von 0. und 1. Maximum 2. Klasse. Vergleichen Sie mit der Theorie. Überlegen Sie alle Fehlermöglichkeiten, um Abweichungen von Experiment und Theorie zu erklären.
+\end{enumerate}
+\subsection{Beugungsbild eines optischen Gitters}
+\begin{enumerate}[label=\alph*)]
+	\item Nehmen Sie die Intensitätskurve der Beugungsfigur eines optischen Gitters auf.
+	\item Vergleichen Sie die Kurve für den N-fachen Spalt mit der Kurve des Doppelspalts.
+	\item Berechnen Sie aus den Messdaten den mittleren Spaltabstand (Gitterkonstante)
+	\item Versuchen Sie, den Einfluss des Einzelspaltes auf das Beugungsbild zu sehen.
+\end{enumerate}

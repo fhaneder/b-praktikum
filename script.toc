@@ -23,11 +23,11 @@
 \contentsline {subsection}{\numberline {2.2.3}Beugungsbild eines optischen Gitters}{19}{subsection.2.2.3}
 \contentsline {chapter}{\numberline {3}Optische Ger\IeC {\"a}te}{21}{chapter.3}
 \contentsline {section}{\numberline {3.1}Fragen zur Vorbereitung}{22}{section.3.1}
-\contentsline {section}{\numberline {3.2}Durchf\IeC {\"u}hrung}{25}{section.3.2}
-\contentsline {subsection}{\numberline {3.2.1}Lupe}{25}{subsection.3.2.1}
+\contentsline {section}{\numberline {3.2}Durchf\IeC {\"u}hrung}{26}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Lupe}{26}{subsection.3.2.1}
 \contentsline {subsection}{\numberline {3.2.2}Astronomisches Fernrohr}{26}{subsection.3.2.2}
-\contentsline {subsection}{\numberline {3.2.3}Terrestrisches Fernrohr}{26}{subsection.3.2.3}
-\contentsline {subsection}{\numberline {3.2.4}Holl\IeC {\"a}ndisches Fernrohr}{26}{subsection.3.2.4}
-\contentsline {subsection}{\numberline {3.2.5}Spiegelteleskop}{26}{subsection.3.2.5}
+\contentsline {subsection}{\numberline {3.2.3}Terrestrisches Fernrohr}{27}{subsection.3.2.3}
+\contentsline {subsection}{\numberline {3.2.4}Holl\IeC {\"a}ndisches Fernrohr}{27}{subsection.3.2.4}
+\contentsline {subsection}{\numberline {3.2.5}Spiegelteleskop}{27}{subsection.3.2.5}
 \contentsline {subsection}{\numberline {3.2.6}Diaprojektor}{27}{subsection.3.2.6}
-\contentsline {subsection}{\numberline {3.2.7}Mikroskop}{27}{subsection.3.2.7}
+\contentsline {subsection}{\numberline {3.2.7}Mikroskop}{28}{subsection.3.2.7}

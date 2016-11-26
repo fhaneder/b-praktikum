@@ -31,3 +31,5 @@
 \contentsline {subsection}{\numberline {3.2.5}Spiegelteleskop}{27}{subsection.3.2.5}
 \contentsline {subsection}{\numberline {3.2.6}Diaprojektor}{27}{subsection.3.2.6}
 \contentsline {subsection}{\numberline {3.2.7}Mikroskop}{28}{subsection.3.2.7}
+\contentsline {chapter}{\numberline {4}Bestimmung des Planck'schen Wirkungsquantums}{29}{chapter.4}
+\contentsline {section}{\numberline {4.1}Vorbereitung}{29}{section.4.1}

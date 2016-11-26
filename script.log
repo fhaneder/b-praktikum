@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.11.21)  26 NOV 2016 14:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.11.21)  26 NOV 2016 18:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1208,7 +1208,11 @@ Package: booktabs 2005/04/14 v1.61803 publication quality tables
 \@lastruleclass=\count288
 \@thisrulewidth=\dimen195
 ) (./script.aux
-(./os.aux) (./lb.aux) (./og.aux) (./hq.aux))
+(./os.aux) (./lb.aux) (./og.aux) (./hq.aux
+
+LaTeX Warning: Label `fig:Abb1' multiply defined.
+
+))
 \openout1 = `script.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
@@ -1226,8 +1230,7 @@ LaTeX Font Info:    ... okay on input line 31.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 31.
 LaTeX Font Info:    ... okay on input line 31.
 LaTeX Font Info:    Try loading font information for T1+lmr on input line 31.
-
-(/usr/share/texmf/tex/latex/lm/t1lmr.fd
+ (/usr/share/texmf/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Info: Redefining \microtypecontext on input line 31.
@@ -1547,7 +1550,7 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 19.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 19.
-[5] <sunspectrum.png, id=164, 441.65pt x 272.01625pt>
+[5] <sunspectrum.png, id=170, 441.65pt x 272.01625pt>
 File: sunspectrum.png Graphic file (type png)
  <use sunspectrum.png>
 Package pdftex.def Info: sunspectrum.png used on input line 29.
@@ -1825,26 +1828,26 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 48.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 48.
-[22] <prismenumkehr1.jpg, id=302, 123.8226pt x 104.0688pt>
+[22] <prismenumkehr1.jpg, id=307, 123.8226pt x 104.0688pt>
 File: prismenumkehr1.jpg Graphic file (type jpg)
 
 <use prismenumkehr1.jpg>
 Package pdftex.def Info: prismenumkehr1.jpg used on input line 54.
 (pdftex.def)             Requested size: 204.94751pt x 172.26506pt.
- <prismenumkehr2.jpg, id=303, 401.5pt x 261.97874pt>
+ <prismenumkehr2.jpg, id=308, 401.5pt x 261.97874pt>
 File: prismenumkehr2.jpg Graphic file (type jpg)
 
 <use prismenumkehr2.jpg>
 Package pdftex.def Info: prismenumkehr2.jpg used on input line 56.
 (pdftex.def)             Requested size: 204.94751pt x 133.73131pt.
 
-<gesichtsfledblende.jpg, id=304, 184.5294pt x 162.8484pt>
+<gesichtsfledblende.jpg, id=309, 184.5294pt x 162.8484pt>
 File: gesichtsfledblende.jpg Graphic file (type jpg)
 
 <use gesichtsfledblende.jpg>
 Package pdftex.def Info: gesichtsfledblende.jpg used on input line 64.
 (pdftex.def)             Requested size: 204.94751pt x 180.87817pt.
- <Apertur.jpg, id=305, 1051.93pt x 485.815pt>
+ <Apertur.jpg, id=310, 1051.93pt x 485.815pt>
 File: Apertur.jpg Graphic file (type jpg)
 
 <use Apertur.jpg>
@@ -1869,7 +1872,7 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 68.
 [23 <./prismenumkehr1.jpg> <./prismenumkehr2.jpg>]
-<Auge.jpg, id=314, 351.3125pt x 345.29pt>
+<Auge.jpg, id=319, 351.3125pt x 345.29pt>
 File: Auge.jpg Graphic file (type jpg)
  <use Auge.jpg>
 Package pdftex.def Info: Auge.jpg used on input line 81.
@@ -1999,7 +2002,79 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 14.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 14.
-)
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 19.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 19.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 19.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 19.
+[29
+
+
+
+
+] <interferenz.png, id=364, 185.19188pt x 98.61844pt>
+File: interferenz.png Graphic file (type png)
+ <use interferenz.png>
+Package pdftex.def Info: interferenz.png used on input line 23.
+(pdftex.def)             Requested size: 185.1914pt x 98.61818pt.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 35.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 35.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 35.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 35.
+
+[30 <./interferenz.png>] <intensitaet.png, id=371, 345.54094pt x 118.94438pt>
+File: intensitaet.png Graphic file (type png)
+
+<use intensitaet.png>
+Package pdftex.def Info: intensitaet.png used on input line 43.
+(pdftex.def)             Requested size: 345.54008pt x 118.94408pt.
+ <pn.png, id=372, 317.68687pt x 160.34906pt>
+File: pn.png Graphic file (type png)
+ <use pn.png>
+Package pdftex.def Info: pn.png used on input line 50.
+(pdftex.def)             Requested size: 317.68608pt x 160.34866pt.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 55.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 55.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 56.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 56.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 59.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 59.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 59.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 59.
+
+[31 <./intensitaet.png> <./pn.png>]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 64.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 64.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 72.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 72.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 78.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 78.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 78.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 78.
+ [32])
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 41.
 Package babel Info: Redefining ngerman shorthand "~
@@ -2008,15 +2083,11 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 41.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 41.
- [29
-
-
-
-
-]
+ [33]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 43.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 43.
- (./script.aux (./os.aux) (./lb.aux) (./og.aux) (./hq.aux))
+ (./script.aux (./os.aux)
+(./lb.aux) (./og.aux) (./hq.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 43.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 43.
 
@@ -2026,16 +2097,19 @@ Package rerunfilecheck Warning: File `script.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `script.out':
-(rerunfilecheck)             Before: 5E9B8B2F5B73981EB6736FC5BFB5B881;1889
-(rerunfilecheck)             After:  9D41F3C2DAFEA33D8C6EF9E45DA8355F;1948.
+(rerunfilecheck)             Before: 9D41F3C2DAFEA33D8C6EF9E45DA8355F;1948
+(rerunfilecheck)             After:  9C01CEE326E4C8EC4291197933FA988B;2264.
+
+LaTeX Warning: There were multiply-defined labels.
+
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 43.
  ) 
 Here is how much of TeX's memory you used:
- 22800 strings out of 493029
- 432077 string characters out of 6136233
- 590240 words of memory out of 5000000
- 25760 multiletter control sequences out of 15000+600000
- 108982 words of font info for 147 fonts, out of 8000000 for 9000
+ 22851 strings out of 493029
+ 432640 string characters out of 6136233
+ 590402 words of memory out of 5000000
+ 25776 multiletter control sequences out of 15000+600000
+ 109148 words of font info for 149 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  46i,19n,66p,10410b,998s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-rmtt.enc}{/usr/share/texmf/fonts/enc/
@@ -2055,10 +2129,10 @@ fb></usr/share/texmf/fonts/type1/public/lm/lmssbx10.pfb></usr/share/texmf/fonts
 /usr/share/texmf/fonts/type1/public/lm/lmtt8.pfb></usr/share/texlive/texmf-dist
 /fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texlive/texmf-dist/
 fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on script.pdf (29 pages, 535757 bytes).
+Output written on script.pdf (33 pages, 562659 bytes).
 PDF statistics:
- 456 PDF objects out of 1000 (max. 8388607)
- 394 compressed objects within 4 object streams
- 127 named destinations out of 1000 (max. 500000)
- 33519 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 510 PDF objects out of 1000 (max. 8388607)
+ 440 compressed objects within 5 object streams
+ 155 named destinations out of 1000 (max. 500000)
+ 33542 words of extra memory for PDF output out of 35830 (max. 10000000)
 

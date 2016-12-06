@@ -4,15 +4,15 @@
 \contentsline {section}{\numberline {1.2}Durchf\IeC {\"u}hrung}{8}{section.1.2}
 \contentsline {subsection}{\numberline {1.2.1}Allgemeine Hinweise}{8}{subsection.1.2.1}
 \contentsline {subsection}{\numberline {1.2.2}Einf\IeC {\"u}hrende Versuche}{9}{subsection.1.2.2}
-\contentsline {subsubsection}{\nonumberline Einf\IeC {\"u}hrung in SpectraWiz}{9}{section*.2}
-\contentsline {subsubsection}{\nonumberline Aufnahme von Transmissionsspektren}{9}{section*.3}
-\contentsline {subsubsection}{\nonumberline Aufnahme von Emissionsspektren}{10}{section*.4}
-\contentsline {subsubsection}{\nonumberline Bestimmung der Farbtemperatur einer Gl\IeC {\"u}hlampe}{10}{section*.5}
+\contentsline {subsubsection}{\nonumberline Einf\IeC {\"u}hrung in SpectraWiz}{9}{section*.3}
+\contentsline {subsubsection}{\nonumberline Aufnahme von Transmissionsspektren}{9}{section*.4}
+\contentsline {subsubsection}{\nonumberline Aufnahme von Emissionsspektren}{10}{section*.5}
+\contentsline {subsubsection}{\nonumberline Bestimmung der Farbtemperatur einer Gl\IeC {\"u}hlampe}{10}{section*.6}
 \contentsline {subsection}{\numberline {1.2.3}Erzeugung verschiedener Farbtemperaturen mit einem Gl\IeC {\"u}hl\IeC {\"a}mpchen}{11}{subsection.1.2.3}
 \contentsline {subsection}{\numberline {1.2.4}Auswertung des Sonnenspektrums}{11}{subsection.1.2.4}
-\contentsline {subsubsection}{\nonumberline Aufnahme des Sonnenspektrums}{11}{section*.6}
-\contentsline {subsubsection}{\nonumberline Bestimmung der Oberfl\IeC {\"a}chentemperatur der Sonne}{11}{section*.7}
-\contentsline {subsubsection}{\nonumberline Bestimmung der wichtigsten Fraunhofer'schen Linien}{11}{section*.8}
+\contentsline {subsubsection}{\nonumberline Aufnahme des Sonnenspektrums}{11}{section*.7}
+\contentsline {subsubsection}{\nonumberline Bestimmung der Oberfl\IeC {\"a}chentemperatur der Sonne}{11}{section*.8}
+\contentsline {subsubsection}{\nonumberline Bestimmung der wichtigsten Fraunhofer'schen Linien}{11}{section*.9}
 \contentsline {subsection}{\numberline {1.2.5}Bestimmung chemischer Elemente}{11}{subsection.1.2.5}
 \contentsline {subsection}{\numberline {1.2.6}Additive Farbmischung}{12}{subsection.1.2.6}
 \contentsline {chapter}{\numberline {2}Lichtbeugung an Spalt und Gitter}{15}{chapter.2}
@@ -37,3 +37,6 @@
 \contentsline {subsection}{\numberline {4.2.1}Farbfilter}{32}{subsection.4.2.1}
 \contentsline {subsection}{\numberline {4.2.2}Bestimmung der Wellenl\IeC {\"a}nge der LEDs}{32}{subsection.4.2.2}
 \contentsline {subsection}{\numberline {4.2.3}Bestimmung des Planck'schen Wirkungsquantums}{32}{subsection.4.2.3}
+\contentsline {chapter}{\numberline {5}Gekoppelte Pendel}{35}{chapter.5}
+\contentsline {section}{\numberline {5.1}Fragen zur Vorbereitung}{36}{section.5.1}
+\contentsline {section}{\numberline {5.2}Durchf\IeC {\"u}hrung}{37}{section.5.2}

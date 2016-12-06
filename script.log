@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.11.21)  29 NOV 2016 13:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.11.21)  6 DEC 2016 13:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -654,6 +654,25 @@ Package: subfigure 2002/03/15 v2.1.5 subfigure package
 \subfig@top=\skip55
 \subfig@bottom=\skip56
 )
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2016/02/04 v1.7-139 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen114
+\captionmargin@=\dimen115
+\captionwidth=\dimen116
+\caption@tempdima=\dimen117
+\caption@indent=\dimen118
+\caption@parindent=\dimen119
+\caption@hangindent=\dimen120
+)
+Package caption Info: KOMA-Script document class.
+\c@ContinuedFloat=\count108
+Package caption Info: hyperref package is loaded.
+Package caption Info: subfigure package is loaded.
+)
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2016/03/03 v2.15a AMS math features
 \@mathmargin=\skip57
@@ -665,46 +684,46 @@ Package: amstext 2000/06/29 v2.01 AMS text
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks19
-\ex@=\dimen114
+\ex@=\dimen121
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen115
+\pmbraise@=\dimen122
 )
 (/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 1999/12/14 v2.01 operator names
 )
-\inf@bad=\count108
+\inf@bad=\count109
 LaTeX Info: Redefining \frac on input line 199.
-\uproot@=\count109
-\leftroot@=\count110
+\uproot@=\count110
+\leftroot@=\count111
 LaTeX Info: Redefining \overline on input line 297.
-\classnum@=\count111
-\DOTSCASE@=\count112
+\classnum@=\count112
+\DOTSCASE@=\count113
 LaTeX Info: Redefining \ldots on input line 394.
 LaTeX Info: Redefining \dots on input line 397.
 LaTeX Info: Redefining \cdots on input line 518.
 \Mathstrutbox@=\box28
 \strutbox@=\box29
-\big@size=\dimen116
+\big@size=\dimen123
 LaTeX Font Info:    Redeclaring font encoding OML on input line 630.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 631.
-\macc@depth=\count113
-\c@MaxMatrixCols=\count114
+\macc@depth=\count114
+\c@MaxMatrixCols=\count115
 \dotsspace@=\muskip11
-\c@parentequation=\count115
-\dspbrk@lvl=\count116
+\c@parentequation=\count116
+\dspbrk@lvl=\count117
 \tag@help=\toks20
-\row@=\count117
-\column@=\count118
-\maxfields@=\count119
+\row@=\count118
+\column@=\count119
+\maxfields@=\count120
 \andhelp@=\toks21
-\eqnshift@=\dimen117
-\alignsep@=\dimen118
-\tagshift@=\dimen119
-\tagwidth@=\dimen120
-\totwidth@=\dimen121
-\lineht@=\dimen122
+\eqnshift@=\dimen124
+\alignsep@=\dimen125
+\tagshift@=\dimen126
+\tagwidth@=\dimen127
+\totwidth@=\dimen128
+\lineht@=\dimen129
 \@envbody=\toks22
 \multlinegap=\skip58
 \multlinetaggap=\skip59
@@ -738,31 +757,31 @@ L3 Module: l3tl 2015/09/29 v6121 L3 Token lists
 L3 Module: l3str 2016/01/03 v6357 L3 Strings
 L3 Module: l3seq 2015/08/05 v5777 L3 Sequences and stacks
 L3 Module: l3int 2016/01/05 v6366 L3 Integers
-\c_max_int=\count120
-\l_tmpa_int=\count121
-\l_tmpb_int=\count122
-\g_tmpa_int=\count123
-\g_tmpb_int=\count124
+\c_max_int=\count121
+\l_tmpa_int=\count122
+\l_tmpb_int=\count123
+\g_tmpa_int=\count124
+\g_tmpb_int=\count125
 L3 Module: l3quark 2015/08/17 v5855 L3 Quarks
 L3 Module: l3prg 2015/11/01 v6216 L3 Control structures
-\g__prg_map_int=\count125
+\g__prg_map_int=\count126
 L3 Module: l3clist 2015/09/02 v5901 L3 Comma separated lists
 L3 Module: l3token 2015/11/11 v6249 L3 Experimental token manipulation
 L3 Module: l3prop 2016/01/05 v6366 L3 Property lists
 L3 Module: l3msg 2015/09/28 v6113 L3 Messages
 L3 Module: l3file 2015/12/03 v6317 L3 File and I/O operations
-\l_iow_line_count_int=\count126
-\l__iow_target_count_int=\count127
-\l__iow_current_line_int=\count128
-\l__iow_current_word_int=\count129
-\l__iow_current_indentation_int=\count130
+\l_iow_line_count_int=\count127
+\l__iow_target_count_int=\count128
+\l__iow_current_line_int=\count129
+\l__iow_current_word_int=\count130
+\l__iow_current_indentation_int=\count131
 L3 Module: l3skip 2016/01/05 v6366 L3 Dimensions and skips
-\c_zero_dim=\dimen123
-\c_max_dim=\dimen124
-\l_tmpa_dim=\dimen125
-\l_tmpb_dim=\dimen126
-\g_tmpa_dim=\dimen127
-\g_tmpb_dim=\dimen128
+\c_zero_dim=\dimen130
+\c_max_dim=\dimen131
+\l_tmpa_dim=\dimen132
+\l_tmpb_dim=\dimen133
+\g_tmpa_dim=\dimen134
+\g_tmpb_dim=\dimen135
 \c_zero_skip=\skip60
 \c_max_skip=\skip61
 \l_tmpa_skip=\skip62
@@ -776,18 +795,18 @@ L3 Module: l3skip 2016/01/05 v6366 L3 Dimensions and skips
 \g_tmpa_muskip=\muskip16
 \g_tmpb_muskip=\muskip17
 L3 Module: l3keys 2015/11/17 v6284 L3 Key-value interfaces
-\g__keyval_level_int=\count131
-\l_keys_choice_int=\count132
+\g__keyval_level_int=\count132
+\l_keys_choice_int=\count133
 L3 Module: l3fp 2015/08/25 v5890 L3 Floating points
-\c__fp_leading_shift_int=\count133
-\c__fp_middle_shift_int=\count134
-\c__fp_trailing_shift_int=\count135
-\c__fp_big_leading_shift_int=\count136
-\c__fp_big_middle_shift_int=\count137
-\c__fp_big_trailing_shift_int=\count138
-\c__fp_Bigg_leading_shift_int=\count139
-\c__fp_Bigg_middle_shift_int=\count140
-\c__fp_Bigg_trailing_shift_int=\count141
+\c__fp_leading_shift_int=\count134
+\c__fp_middle_shift_int=\count135
+\c__fp_trailing_shift_int=\count136
+\c__fp_big_leading_shift_int=\count137
+\c__fp_big_middle_shift_int=\count138
+\c__fp_big_trailing_shift_int=\count139
+\c__fp_Bigg_leading_shift_int=\count140
+\c__fp_Bigg_middle_shift_int=\count141
+\c__fp_Bigg_trailing_shift_int=\count142
 L3 Module: l3box 2015/08/09 v5822 L3 Experimental boxes
 \c_empty_box=\box30
 \l_tmpa_box=\box31
@@ -796,13 +815,13 @@ L3 Module: l3box 2015/08/09 v5822 L3 Experimental boxes
 \g_tmpb_box=\box34
 L3 Module: l3coffins 2015/08/06 v5789 L3 Coffin code layer
 \l__coffin_internal_box=\box35
-\l__coffin_internal_dim=\dimen129
-\l__coffin_offset_x_dim=\dimen130
-\l__coffin_offset_y_dim=\dimen131
-\l__coffin_x_dim=\dimen132
-\l__coffin_y_dim=\dimen133
-\l__coffin_x_prime_dim=\dimen134
-\l__coffin_y_prime_dim=\dimen135
+\l__coffin_internal_dim=\dimen136
+\l__coffin_offset_x_dim=\dimen137
+\l__coffin_offset_y_dim=\dimen138
+\l__coffin_x_dim=\dimen139
+\l__coffin_y_dim=\dimen140
+\l__coffin_x_prime_dim=\dimen141
+\l__coffin_y_prime_dim=\dimen142
 \c_empty_coffin=\box36
 \l__coffin_aligned_coffin=\box37
 \l__coffin_aligned_internal_coffin=\box38
@@ -811,33 +830,33 @@ L3 Module: l3coffins 2015/08/06 v5789 L3 Coffin code layer
 \l__coffin_display_coffin=\box41
 \l__coffin_display_coord_coffin=\box42
 \l__coffin_display_pole_coffin=\box43
-\l__coffin_display_offset_dim=\dimen136
-\l__coffin_display_x_dim=\dimen137
-\l__coffin_display_y_dim=\dimen138
+\l__coffin_display_offset_dim=\dimen143
+\l__coffin_display_x_dim=\dimen144
+\l__coffin_display_y_dim=\dimen145
 L3 Module: l3color 2014/08/23 v5354 L3 Experimental color support
 L3 Module: l3sys 2015/09/25 v6087 L3 Experimental system/runtime functions
 L3 Module: l3candidates 2016/01/14 v6376 L3 Experimental additions to l3kernel
-\l__box_top_dim=\dimen139
-\l__box_bottom_dim=\dimen140
-\l__box_left_dim=\dimen141
-\l__box_right_dim=\dimen142
-\l__box_top_new_dim=\dimen143
-\l__box_bottom_new_dim=\dimen144
-\l__box_left_new_dim=\dimen145
-\l__box_right_new_dim=\dimen146
+\l__box_top_dim=\dimen146
+\l__box_bottom_dim=\dimen147
+\l__box_left_dim=\dimen148
+\l__box_right_dim=\dimen149
+\l__box_top_new_dim=\dimen150
+\l__box_bottom_new_dim=\dimen151
+\l__box_left_new_dim=\dimen152
+\l__box_right_new_dim=\dimen153
 \l__box_internal_box=\box44
-\l__coffin_bounding_shift_dim=\dimen147
-\l__coffin_left_corner_dim=\dimen148
-\l__coffin_right_corner_dim=\dimen149
-\l__coffin_bottom_corner_dim=\dimen150
-\l__coffin_top_corner_dim=\dimen151
-\l__coffin_scaled_total_height_dim=\dimen152
-\l__coffin_scaled_width_dim=\dimen153
+\l__coffin_bounding_shift_dim=\dimen154
+\l__coffin_left_corner_dim=\dimen155
+\l__coffin_right_corner_dim=\dimen156
+\l__coffin_bottom_corner_dim=\dimen157
+\l__coffin_top_corner_dim=\dimen158
+\l__coffin_scaled_total_height_dim=\dimen159
+\l__coffin_scaled_width_dim=\dimen160
 L3 Module: l3luatex 2015/11/11 v6250 L3 Experimental LuaTeX-specific functions
 )
 (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3pdfmode.def
 File: l3pdfmode.def 2015/11/11 v6250 L3 Experimental driver: PDF mode
-\l__driver_color_stack_int=\count142
+\l__driver_color_stack_int=\count143
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
 Package: l3keys2e 2016/01/19 v6377 LaTeX2e option processing using LaTeX3 keys
@@ -847,87 +866,87 @@ Package: l3regex 2016/01/19 v6377 L3 Experimental regular expressions
 
 (/usr/share/texlive/texmf-dist/tex/latex/l3experimental/l3str/l3tl-build.sty
 Package: l3tl-build 2016/01/19 v6377 L3 Experimental token list construction
-\l__tl_build_start_index_int=\count143
-\l__tl_build_index_int=\count144
+\l__tl_build_start_index_int=\count144
+\l__tl_build_index_int=\count145
 )
 (/usr/share/texlive/texmf-dist/tex/latex/l3experimental/l3str/l3tl-analysis.sty
 Package: l3tl-analysis 2015/11/09 v6244 L3 Experimental token lists analysis
-\l__tl_analysis_normal_int=\count145
-\l__tl_analysis_index_int=\count146
-\l__tl_analysis_nesting_int=\count147
-\l__tl_analysis_type_int=\count148
+\l__tl_analysis_normal_int=\count146
+\l__tl_analysis_index_int=\count147
+\l__tl_analysis_nesting_int=\count148
+\l__tl_analysis_type_int=\count149
 ) (/usr/share/texlive/texmf-dist/tex/latex/l3experimental/l3str/l3flag.sty
 Package: l3flag 2016/01/19 v6377 L3 Experimental flags
 )
 (/usr/share/texlive/texmf-dist/tex/latex/l3experimental/l3str/l3str-convert.sty
 Package: l3str-convert 2015/09/26 v6106 L3 Experimental string encoding convers
 ions
-\l__str_internal_int=\count149
-\c__str_replacement_char_int=\count150
+\l__str_internal_int=\count150
+\c__str_replacement_char_int=\count151
 )
-\l__regex_internal_a_int=\count151
-\l__regex_internal_b_int=\count152
-\l__regex_internal_c_int=\count153
-\l__regex_balance_int=\count154
-\l__regex_group_level_int=\count155
-\l__regex_mode_int=\count156
-\l__regex_catcodes_int=\count157
-\l__regex_default_catcodes_int=\count158
-\c__regex_catcode_D_int=\count159
-\c__regex_catcode_S_int=\count160
-\c__regex_catcode_L_int=\count161
-\c__regex_catcode_O_int=\count162
-\c__regex_catcode_A_int=\count163
-\c__regex_all_catcodes_int=\count164
-\l__regex_show_lines_int=\count165
-\l__regex_min_state_int=\count166
-\l__regex_max_state_int=\count167
-\l__regex_left_state_int=\count168
-\l__regex_right_state_int=\count169
-\l__regex_capturing_group_int=\count170
-\l__regex_min_pos_int=\count171
-\l__regex_max_pos_int=\count172
-\l__regex_current_pos_int=\count173
-\l__regex_start_pos_int=\count174
-\l__regex_success_pos_int=\count175
-\l__regex_current_char_int=\count176
-\l__regex_current_catcode_int=\count177
-\l__regex_last_char_int=\count178
-\l__regex_case_changed_char_int=\count179
-\l__regex_current_state_int=\count180
-\l__regex_step_int=\count181
-\l__regex_min_active_int=\count182
-\l__regex_max_active_int=\count183
-\l__regex_replacement_csnames_int=\count184
-\l__regex_match_count_int=\count185
-\l__regex_submatch_int=\count186
-\l__regex_zeroth_submatch_int=\count187
+\l__regex_internal_a_int=\count152
+\l__regex_internal_b_int=\count153
+\l__regex_internal_c_int=\count154
+\l__regex_balance_int=\count155
+\l__regex_group_level_int=\count156
+\l__regex_mode_int=\count157
+\l__regex_catcodes_int=\count158
+\l__regex_default_catcodes_int=\count159
+\c__regex_catcode_D_int=\count160
+\c__regex_catcode_S_int=\count161
+\c__regex_catcode_L_int=\count162
+\c__regex_catcode_O_int=\count163
+\c__regex_catcode_A_int=\count164
+\c__regex_all_catcodes_int=\count165
+\l__regex_show_lines_int=\count166
+\l__regex_min_state_int=\count167
+\l__regex_max_state_int=\count168
+\l__regex_left_state_int=\count169
+\l__regex_right_state_int=\count170
+\l__regex_capturing_group_int=\count171
+\l__regex_min_pos_int=\count172
+\l__regex_max_pos_int=\count173
+\l__regex_current_pos_int=\count174
+\l__regex_start_pos_int=\count175
+\l__regex_success_pos_int=\count176
+\l__regex_current_char_int=\count177
+\l__regex_current_catcode_int=\count178
+\l__regex_last_char_int=\count179
+\l__regex_case_changed_char_int=\count180
+\l__regex_current_state_int=\count181
+\l__regex_step_int=\count182
+\l__regex_min_active_int=\count183
+\l__regex_max_active_int=\count184
+\l__regex_replacement_csnames_int=\count185
+\l__regex_match_count_int=\count186
+\l__regex_submatch_int=\count187
+\l__regex_zeroth_submatch_int=\count188
 ) (/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count188
-\calc@Bcount=\count189
-\calc@Adimen=\dimen154
-\calc@Bdimen=\dimen155
+\calc@Acount=\count189
+\calc@Bcount=\count190
+\calc@Adimen=\dimen161
+\calc@Bdimen=\dimen162
 \calc@Askip=\skip66
 \calc@Bskip=\skip67
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count190
+\calc@Ccount=\count191
 \calc@Cskip=\skip68
 )
 (/usr/share/texlive/texmf-dist/tex/latex/chemgreek/chemgreek.sty
 (/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
 Package: xparse 2016/01/19 v6377 L3 Experimental document command parser
-\l__xparse_current_arg_int=\count191
-\l__xparse_m_args_int=\count192
-\l__xparse_mandatory_args_int=\count193
-\l__xparse_processor_int=\count194
-\l__xparse_v_nesting_int=\count195
+\l__xparse_current_arg_int=\count192
+\l__xparse_m_args_int=\count193
+\l__xparse_mandatory_args_int=\count194
+\l__xparse_processor_int=\count195
+\l__xparse_v_nesting_int=\count196
 )
 Package: chemgreek 2016/02/10 v1.0e interfaceforuprightgreeklettersforuseinchem
 istry (CN)
-\l__chemgreek_tmpa_int=\count196
-\g__chemgreek_tmpa_int=\count197
+\l__chemgreek_tmpa_int=\count197
+\g__chemgreek_tmpa_int=\count198
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
@@ -979,7 +998,7 @@ istry (CN)
 . Defining command \selectchemgreekmapping with sig. 'm' on line 491.
 .................................................
 )
-\l__mhchem_ce_distanceFromLastComma_int=\count198
+\l__mhchem_ce_distanceFromLastComma_int=\count199
 \__mhchem_arrow_extPgfLength_skip=\skip69
 \mhchem@minispace@tmp=\skip70
 \mhchem@minibackspace@tmp=\skip71
@@ -990,57 +1009,57 @@ istry (CN)
 \mhchem@smallbondwidth=\skip76
 \mhchem@bondtmp@minussidebearingleft=\skip77
 \mhchem@bondtmp@minussidebearingright=\skip78
-\l__mhchem_option_version_int=\count199
-\mhchem@option@minusmathsidebearingleft=\dimen156
-\mhchem@option@minusmathsidebearingright=\dimen157
-\mhchem@option@minustextsidebearingleft=\dimen158
-\mhchem@option@minustextsidebearingright=\dimen159
+\l__mhchem_option_version_int=\count266
+\mhchem@option@minusmathsidebearingleft=\dimen163
+\mhchem@option@minusmathsidebearingright=\dimen164
+\mhchem@option@minustextsidebearingleft=\dimen165
+\mhchem@option@minustextsidebearingright=\dimen166
 )
 (/usr/share/texlive/texmf-dist/tex/latex/siunitx/siunitx.sty
 Package: siunitx 2016/03/01 v2.6q A comprehensive (SI) units package
 
 (/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
 Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
-\col@sep=\dimen160
-\extrarowheight=\dimen161
+\col@sep=\dimen167
+\extrarowheight=\dimen168
 \NC@list=\toks24
 \extratabsurround=\skip79
 \backup@length=\skip80
 )
 \l__siunitx_tmp_box=\box45
-\l__siunitx_tmp_dim=\dimen162
-\l__siunitx_tmp_int=\count266
-\l__siunitx_number_mantissa_length_int=\count267
-\l__siunitx_number_uncert_length_int=\count268
-\l__siunitx_round_int=\count269
-\l__siunitx_process_decimal_int=\count270
-\l__siunitx_process_uncertainty_int=\count271
-\l__siunitx_process_fixed_int=\count272
-\l__siunitx_process_integer_min_int=\count273
-\l__siunitx_process_precision_int=\count274
-\l__siunitx_group_min_int=\count275
+\l__siunitx_tmp_dim=\dimen169
+\l__siunitx_tmp_int=\count267
+\l__siunitx_number_mantissa_length_int=\count268
+\l__siunitx_number_uncert_length_int=\count269
+\l__siunitx_round_int=\count270
+\l__siunitx_process_decimal_int=\count271
+\l__siunitx_process_uncertainty_int=\count272
+\l__siunitx_process_fixed_int=\count273
+\l__siunitx_process_integer_min_int=\count274
+\l__siunitx_process_precision_int=\count275
+\l__siunitx_group_min_int=\count276
 \l__siunitx_angle_marker_box=\box46
 \l__siunitx_angle_unit_box=\box47
-\l__siunitx_angle_marker_dim=\dimen163
-\l__siunitx_angle_unit_dim=\dimen164
-\l__siunitx_unit_int=\count276
-\l__siunitx_unit_denominator_int=\count277
-\l__siunitx_unit_numerator_int=\count278
-\l__siunitx_unit_prefix_int=\count279
-\l__siunitx_unit_prefix_base_int=\count280
-\l__siunitx_unit_prefix_gram_int=\count281
-\l__siunitx_number_product_int=\count282
+\l__siunitx_angle_marker_dim=\dimen170
+\l__siunitx_angle_unit_dim=\dimen171
+\l__siunitx_unit_int=\count277
+\l__siunitx_unit_denominator_int=\count278
+\l__siunitx_unit_numerator_int=\count279
+\l__siunitx_unit_prefix_int=\count280
+\l__siunitx_unit_prefix_base_int=\count281
+\l__siunitx_unit_prefix_gram_int=\count282
+\l__siunitx_number_product_int=\count283
 \c__siunitx_one_fill_skip=\skip81
 \l__siunitx_table_unit_align_skip=\skip82
-\l__siunitx_table_exponent_dim=\dimen165
-\l__siunitx_table_integer_dim=\dimen166
-\l__siunitx_table_mantissa_dim=\dimen167
-\l__siunitx_table_marker_dim=\dimen168
-\l__siunitx_table_result_dim=\dimen169
-\l__siunitx_table_uncert_dim=\dimen170
-\l__siunitx_table_fill_pre_dim=\dimen171
-\l__siunitx_table_fill_post_dim=\dimen172
-\l__siunitx_table_fill_mid_dim=\dimen173
+\l__siunitx_table_exponent_dim=\dimen172
+\l__siunitx_table_integer_dim=\dimen173
+\l__siunitx_table_mantissa_dim=\dimen174
+\l__siunitx_table_marker_dim=\dimen175
+\l__siunitx_table_result_dim=\dimen176
+\l__siunitx_table_uncert_dim=\dimen177
+\l__siunitx_table_fill_pre_dim=\dimen178
+\l__siunitx_table_fill_post_dim=\dimen179
+\l__siunitx_table_fill_mid_dim=\dimen180
 \l__siunitx_table_pre_box=\box48
 \l__siunitx_table_post_box=\box49
 \l__siunitx_table_mantissa_box=\box50
@@ -1172,68 +1191,68 @@ Package: translator 2010/06/12 ver 1.10
 (/usr/share/texlive/texmf-dist/tex/latex/beamer/translator/translator-language-
 mappings.tex))) (/usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty
 Package: tabularx 2014/10/28 v2.10 `tabularx' package (DPC)
-\TX@col@width=\dimen174
-\TX@old@table=\dimen175
-\TX@old@col=\dimen176
-\TX@target=\dimen177
-\TX@delta=\dimen178
-\TX@cols=\count283
+\TX@col@width=\dimen181
+\TX@old@table=\dimen182
+\TX@old@col=\dimen183
+\TX@target=\dimen184
+\TX@delta=\dimen185
+\TX@cols=\count284
 \TX@ftn=\toks25
 )
 (/usr/share/texlive/texmf-dist/tex/latex/tabulary/tabulary.sty
 Package: tabulary 2014/06/11 v0.10 tabulary package (DPC)
-\TY@count=\count284
-\TY@linewidth=\dimen179
-\tymin=\dimen180
-\tymax=\dimen181
-\TY@tablewidth=\dimen182
+\TY@count=\count285
+\TY@linewidth=\dimen186
+\tymin=\dimen187
+\tymax=\dimen188
+\TY@tablewidth=\dimen189
 )
 (/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2005/04/14 v1.61803 publication quality tables
-\heavyrulewidth=\dimen183
-\lightrulewidth=\dimen184
-\cmidrulewidth=\dimen185
-\belowrulesep=\dimen186
-\belowbottomsep=\dimen187
-\aboverulesep=\dimen188
-\abovetopsep=\dimen189
-\cmidrulesep=\dimen190
-\cmidrulekern=\dimen191
-\defaultaddspace=\dimen192
-\@cmidla=\count285
-\@cmidlb=\count286
-\@aboverulesep=\dimen193
-\@belowrulesep=\dimen194
-\@thisruleclass=\count287
-\@lastruleclass=\count288
-\@thisrulewidth=\dimen195
+\heavyrulewidth=\dimen190
+\lightrulewidth=\dimen191
+\cmidrulewidth=\dimen192
+\belowrulesep=\dimen193
+\belowbottomsep=\dimen194
+\aboverulesep=\dimen195
+\abovetopsep=\dimen196
+\cmidrulesep=\dimen197
+\cmidrulekern=\dimen198
+\defaultaddspace=\dimen199
+\@cmidla=\count286
+\@cmidlb=\count287
+\@aboverulesep=\dimen256
+\@belowrulesep=\dimen257
+\@thisruleclass=\count288
+\@lastruleclass=\count289
+\@thisrulewidth=\dimen258
 ) (./script.aux
 (./os.aux) (./lb.aux) (./og.aux) (./hq.aux
 
 LaTeX Warning: Label `fig:Abb1' multiply defined.
 
-))
+) (./gp.aux))
 \openout1 = `script.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Try loading font information for T1+lmr on input line 31.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 32.
  (/usr/share/texmf/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Info: Redefining \microtypecontext on input line 31.
+LaTeX Info: Redefining \microtypecontext on input line 32.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -1258,7 +1277,7 @@ File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package color Info: Driver file: pdftex.def on input line 143.
 )
-Package hyperref Info: Link coloring ON on input line 31.
+Package hyperref Info: Link coloring ON on input line 32.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -1266,11 +1285,11 @@ Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count289
+\c@section@level=\count290
 )
-LaTeX Info: Redefining \ref on input line 31.
-LaTeX Info: Redefining \pageref on input line 31.
-LaTeX Info: Redefining \nameref on input line 31.
+LaTeX Info: Redefining \ref on input line 32.
+LaTeX Info: Redefining \pageref on input line 32.
+LaTeX Info: Redefining \nameref on input line 32.
 
 (./script.out) (./script.out)
 \@outlinefile=\write3
@@ -1279,16 +1298,16 @@ LaTeX Info: Redefining \nameref on input line 31.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count290
-\scratchdimen=\dimen196
+\scratchcounter=\count291
+\scratchdimen=\dimen259
 \scratchbox=\box53
-\nofMPsegments=\count291
-\nofMParguments=\count292
+\nofMPsegments=\count292
+\nofMParguments=\count293
 \everyMPshowfont=\toks26
-\MPscratchCnt=\count293
-\MPscratchDim=\dimen197
-\MPnumerator=\count294
-\makeMPintoPDFobject=\count295
+\MPscratchCnt=\count294
+\MPscratchDim=\dimen260
+\MPnumerator=\count295
+\makeMPintoPDFobject=\count296
 \everyMPtoPDFconversion=\toks27
 ) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
@@ -1305,10 +1324,12 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
 .................................................
 . chemgreek info: "mapping-activated"
 . 
-. Activating mapping `default' on line 31.
+. Activating mapping `default' on line 32.
 .................................................
 Now handling font encoding TS1 ...
 ... processing UTF-8 mapping file for font encoding TS1
@@ -1396,36 +1417,36 @@ Dictionary: translator-basic-dictionary, Language: German
 (/usr/share/texlive/texmf-dist/tex/latex/siunitx/siunitx-abbreviations.cfg
 File: siunitx-abbreviations.cfg 2016/03/01 v2.6q siunitx: Abbreviated units
 )
-\c__siunitx_mathsf_int=\count296
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 31.
+\c__siunitx_mathsf_int=\count297
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 32.
 
 (/usr/share/texmf/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 31.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 32.
 
 (/usr/share/texmf/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 31.
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 32.
 
 
 (/usr/share/texmf/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 31.
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 32.
 
 
 (/usr/share/texmf/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 31.
+(Font)              <10.95> on input line 32.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 31.
+(Font)              <8> on input line 32.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 31.
-LaTeX Font Info:    Try loading font information for U+msa on input line 31.
+(Font)              <6> on input line 32.
+LaTeX Font Info:    Try loading font information for U+msa on input line 32.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
@@ -1433,7 +1454,7 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 31.
+LaTeX Font Info:    Try loading font information for U+msb on input line 32.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -1441,7 +1462,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
-LaTeX Font Info:    Try loading font information for OT1+lmss on input line 31.
+LaTeX Font Info:    Try loading font information for OT1+lmss on input line 32.
 
 
 (/usr/share/texmf/tex/latex/lm/ot1lmss.fd
@@ -1451,8 +1472,8 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             `lmss' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-\c__siunitx_mathtt_int=\count297
-LaTeX Font Info:    Try loading font information for OT1+lmtt on input line 31.
+\c__siunitx_mathtt_int=\count298
+LaTeX Font Info:    Try loading font information for OT1+lmtt on input line 32.
 
 
 (/usr/share/texmf/tex/latex/lm/ot1lmtt.fd
@@ -1462,7 +1483,7 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             `lmtt' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Try loading font information for T1+lmss on input line 35.
+LaTeX Font Info:    Try loading font information for T1+lmss on input line 36.
 
 (/usr/share/texmf/tex/latex/lm/t1lmss.fd
 File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
@@ -1472,67 +1493,63 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <14.4> on input line 35.
+(Font)              <14.4> on input line 36.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 35.
+(Font)              <10> on input line 36.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 35.
+(Font)              <7> on input line 36.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 35.
+(babel)             in language  on input line 36.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 35.
+(babel)             in language  on input line 36.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 35.
+(babel)             in language  on input line 36.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 35.
+(babel)             in language  on input line 36.
  [1
 
 
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 37.
+(babel)             in language  on input line 38.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 37.
+(babel)             in language  on input line 38.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 37.
+(babel)             in language  on input line 38.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 37.
+(babel)             in language  on input line 38.
  [2
 
 
 ]
-Package tocbasic Info: character protrusion at toc deactivated on input line 37
+Package tocbasic Info: character protrusion at toc deactivated on input line 38
 .
  (./script.toc)
 \tf@toc=\write4
 \openout4 = `script.toc'.
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 38.
+(babel)             in language  on input line 39.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 38.
+(babel)             in language  on input line 39.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 38.
+(babel)             in language  on input line 39.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 38.
+(babel)             in language  on input line 39.
  [3]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 39.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 39.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 39.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 39.
+ [4]
 \openout2 = `os.aux'.
 
  (./os.tex
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1.
-Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 1.
-Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 1.
- [4
-
-
-
-]
 chapter 1.
 Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 1.
@@ -1550,7 +1567,11 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 19.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 19.
-[5] <sunspectrum.png, id=190, 441.65pt x 272.01625pt>
+[5
+
+
+
+] <sunspectrum.png, id=206, 441.65pt x 272.01625pt>
 File: sunspectrum.png Graphic file (type png)
  <use sunspectrum.png>
 Package pdftex.def Info: sunspectrum.png used on input line 29.
@@ -1667,13 +1688,13 @@ Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 202.
  [12])
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 38.
+(babel)             in language  on input line 39.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 38.
+(babel)             in language  on input line 39.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 38.
+(babel)             in language  on input line 39.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 38.
+(babel)             in language  on input line 39.
  [13]
 \openout2 = `lb.aux'.
 
@@ -1755,13 +1776,13 @@ Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 111.
 )
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 39.
+(babel)             in language  on input line 40.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 39.
+(babel)             in language  on input line 40.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 39.
+(babel)             in language  on input line 40.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 39.
+(babel)             in language  on input line 40.
  [19]
 \openout2 = `og.aux'.
 
@@ -1828,26 +1849,26 @@ Package babel Info: Redefining ngerman shorthand "|
 (babel)             in language  on input line 48.
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 48.
-[22] <prismenumkehr1.jpg, id=327, 123.8226pt x 104.0688pt>
+[22] <prismenumkehr1.jpg, id=342, 123.8226pt x 104.0688pt>
 File: prismenumkehr1.jpg Graphic file (type jpg)
 
 <use prismenumkehr1.jpg>
 Package pdftex.def Info: prismenumkehr1.jpg used on input line 54.
 (pdftex.def)             Requested size: 204.94751pt x 172.26506pt.
- <prismenumkehr2.jpg, id=328, 401.5pt x 261.97874pt>
+ <prismenumkehr2.jpg, id=343, 401.5pt x 261.97874pt>
 File: prismenumkehr2.jpg Graphic file (type jpg)
 
 <use prismenumkehr2.jpg>
 Package pdftex.def Info: prismenumkehr2.jpg used on input line 56.
 (pdftex.def)             Requested size: 204.94751pt x 133.73131pt.
 
-<gesichtsfledblende.jpg, id=329, 184.5294pt x 162.8484pt>
+<gesichtsfledblende.jpg, id=344, 184.5294pt x 162.8484pt>
 File: gesichtsfledblende.jpg Graphic file (type jpg)
 
 <use gesichtsfledblende.jpg>
 Package pdftex.def Info: gesichtsfledblende.jpg used on input line 64.
 (pdftex.def)             Requested size: 204.94751pt x 180.87817pt.
- <Apertur.jpg, id=330, 1051.93pt x 485.815pt>
+ <Apertur.jpg, id=345, 1051.93pt x 485.815pt>
 File: Apertur.jpg Graphic file (type jpg)
 
 <use Apertur.jpg>
@@ -1872,7 +1893,7 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 68.
 [23 <./prismenumkehr1.jpg> <./prismenumkehr2.jpg>]
-<Auge.jpg, id=339, 351.3125pt x 345.29pt>
+<Auge.jpg, id=355, 351.3125pt x 345.29pt>
 File: Auge.jpg Graphic file (type jpg)
  <use Auge.jpg>
 Package pdftex.def Info: Auge.jpg used on input line 81.
@@ -1981,13 +2002,13 @@ Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 166.
  [27])
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 40.
+(babel)             in language  on input line 41.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 40.
+(babel)             in language  on input line 41.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 40.
+(babel)             in language  on input line 41.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 40.
+(babel)             in language  on input line 41.
 
 [28]
 \openout2 = `hq.aux'.
@@ -2015,7 +2036,7 @@ Package babel Info: Redefining ngerman shorthand "~
 
 
 
-] <interferenz.png, id=384, 185.19188pt x 98.61844pt>
+] <interferenz.png, id=401, 185.19188pt x 98.61844pt>
 File: interferenz.png Graphic file (type png)
  <use interferenz.png>
 Package pdftex.def Info: interferenz.png used on input line 23.
@@ -2029,13 +2050,13 @@ Package babel Info: Redefining ngerman shorthand "|
 Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 35.
 
-[30 <./interferenz.png>] <intensitaet.png, id=391, 345.54094pt x 118.94438pt>
+[30 <./interferenz.png>] <intensitaet.png, id=408, 345.54094pt x 118.94438pt>
 File: intensitaet.png Graphic file (type png)
 
 <use intensitaet.png>
 Package pdftex.def Info: intensitaet.png used on input line 44.
 (pdftex.def)             Requested size: 345.54008pt x 118.94408pt.
- <pn.png, id=392, 317.68687pt x 160.34906pt>
+ <pn.png, id=409, 317.68687pt x 160.34906pt>
 File: pn.png Graphic file (type png)
  <use pn.png>
 Package pdftex.def Info: pn.png used on input line 51.
@@ -2076,34 +2097,130 @@ Package babel Info: Redefining ngerman shorthand "~
 (babel)             in language  on input line 79.
  [32])
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 41.
+(babel)             in language  on input line 42.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 41.
+(babel)             in language  on input line 42.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 41.
+(babel)             in language  on input line 42.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 41.
+(babel)             in language  on input line 42.
  [33]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 43.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 43.
- (./script.aux (./os.aux)
-(./lb.aux) (./og.aux) (./hq.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 43.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 43.
+\openout2 = `gp.aux'.
+
+ (./gp.tex
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1.
+ [34
+
+
+
+
+]
+chapter 5.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 1.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 1.
+<gekpendel.png, id=445, 220.825pt x 147.55125pt>
+File: gekpendel.png Graphic file (type png)
+ <use gekpendel.png>
+Package pdftex.def Info: gekpendel.png used on input line 27.
+(pdftex.def)             Requested size: 292.7776pt x 195.63728pt.
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 28.
+See the caption package documentation for explanation.
+
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 31.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 31.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 31.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 31.
+[35]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 31.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 31.
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--45
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--45
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--45
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--45
+
+ []
+
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 45.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 45.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 45.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 45.
+[36 <./gekpendel.png>]
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 45.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 45.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 59.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 59.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 59.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 59.
+ [37])
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 43.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 43.
+Package babel Info: Redefining ngerman shorthand "|
+(babel)             in language  on input line 43.
+Package babel Info: Redefining ngerman shorthand "~
+(babel)             in language  on input line 43.
+ [38]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 45.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 45.
+ (./script.aux (./os.aux) (./lb.aux) (./og.aux) (./hq.aux) (./gp.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 45.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 45.
 Package rerunfilecheck Info: File `script.out' has not changed.
-(rerunfilecheck)             Checksum: 9C01CEE326E4C8EC4291197933FA988B;2264.
+(rerunfilecheck)             Checksum: B655A930E3FE446F04CACB151F1C5F70;2449.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 43.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 45.
  ) 
 Here is how much of TeX's memory you used:
- 22855 strings out of 493029
- 432705 string characters out of 6136233
- 590405 words of memory out of 5000000
- 25780 multiletter control sequences out of 15000+600000
- 109148 words of font info for 149 fonts, out of 8000000 for 9000
+ 23881 strings out of 493029
+ 451504 string characters out of 6136233
+ 604769 words of memory out of 5000000
+ 26779 multiletter control sequences out of 15000+600000
+ 109231 words of font info for 150 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  46i,19n,66p,10410b,998s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/lm/lm-rmtt.enc}{/usr/share/texmf/fonts/enc/
@@ -2123,10 +2240,10 @@ fb></usr/share/texmf/fonts/type1/public/lm/lmssbx10.pfb></usr/share/texmf/fonts
 /usr/share/texmf/fonts/type1/public/lm/lmtt8.pfb></usr/share/texlive/texmf-dist
 /fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texlive/texmf-dist/
 fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on script.pdf (33 pages, 563514 bytes).
+Output written on script.pdf (38 pages, 591244 bytes).
 PDF statistics:
- 526 PDF objects out of 1000 (max. 8388607)
- 456 compressed objects within 5 object streams
- 155 named destinations out of 1000 (max. 500000)
- 33574 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 571 PDF objects out of 1000 (max. 8388607)
+ 494 compressed objects within 5 object streams
+ 166 named destinations out of 1000 (max. 500000)
+ 33603 words of extra memory for PDF output out of 35830 (max. 10000000)
 

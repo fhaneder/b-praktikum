@@ -40,3 +40,8 @@
 \contentsline {chapter}{\numberline {5}Gekoppelte Pendel}{35}{chapter.5}
 \contentsline {section}{\numberline {5.1}Fragen zur Vorbereitung}{36}{section.5.1}
 \contentsline {section}{\numberline {5.2}Durchf\IeC {\"u}hrung}{37}{section.5.2}
+\contentsline {chapter}{\numberline {6}Spezifische Ladung $e/m$ des Elektrons}{39}{chapter.6}
+\contentsline {section}{\numberline {6.1}Vorbereitung}{39}{section.6.1}
+\contentsline {section}{\numberline {6.2}Durchf\IeC {\"u}hrung}{41}{section.6.2}
+\contentsline {subsection}{\numberline {6.2.1}Thomson-R\IeC {\"o}hre}{41}{subsection.6.2.1}
+\contentsline {subsection}{\numberline {6.2.2}Doppelstrahlr\IeC {\"o}hre}{43}{subsection.6.2.2}

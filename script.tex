@@ -26,9 +26,22 @@
 \newcommand{\boltz}{k}
 \newcommand{\G}{G}
 \newcommand{\IN}{\mathbb{N}}
+\newcommand{\IZ}{\mathbb{Z}}
 \renewcommand{\d}{\mathrm{d}}
 \newcommand*{\e}[1]{e^{#1}}
 \newcommand{\numberthis}{\addtocounter{equation}{1}\tag{\theequation}}
+\newcommand*{\pdiff}[2]{\frac{\partial#1}{\partial#2}}
+\newcommand*{\pddiff}[2]{\frac{\partial^2#1}{\partial#2^2}}
+\newcommand{\divg}[1]{\nabla\cdot\vec{#1}}
+\newcommand{\rot}[1]{\nabla\times\vec{#1}}
+\newcommand{\Lap}{\Delta}
+\newcommand*{\avg}[1]{<#1>}
+\newcommand*{\ten}[1]{\overline{\overline{#1}}}
+\newcommand*{\skp}[2]{\vec{#1}\cdot\vec{#2}}
+\newcommand*{\vecp}[2]{\vec{#1}\times\vec{#2}}
+\newcommand*{\skpud}[6]{\vec{#1}^{#2}_{#3}\cdot\vec{#4}^{#5}_{#6}}
+\newcommand*{\vecpud}[6]{\vec{#1}^{#2}_{#3}\times\vec{#4}^{#5}_{#6}}
+\newcommand*{\uvec}[2][e]{\hat{#1}_{#2}}
 
 \begin{document}
 \title{B-Praktikum}
@@ -43,6 +56,7 @@
 \include{hq}
 \include{gp}
 \include{em}
+\include{po}
 
 \end{document}
 

@@ -45,12 +45,16 @@
 \contentsline {section}{\numberline {6.2}Durchf\IeC {\"u}hrung}{41}{section.6.2}
 \contentsline {subsection}{\numberline {6.2.1}Thomson-R\IeC {\"o}hre}{41}{subsection.6.2.1}
 \contentsline {subsection}{\numberline {6.2.2}Doppelstrahlr\IeC {\"o}hre}{43}{subsection.6.2.2}
-\contentsline {chapter}{\numberline {7}Polarisation des Lichts}{45}{chapter.7}
-\contentsline {section}{\numberline {7.1}Vorbereitung}{46}{section.7.1}
-\contentsline {section}{\numberline {7.2}Durchf\IeC {\"u}hrung}{50}{section.7.2}
-\contentsline {subsection}{\numberline {7.2.1}Doppelbrechung}{50}{subsection.7.2.1}
-\contentsline {subsection}{\numberline {7.2.2}Gesetz von Malus}{50}{subsection.7.2.2}
-\contentsline {subsection}{\numberline {7.2.3}$\lambda /4-$Pl\IeC {\"a}ttchen}{51}{subsection.7.2.3}
-\contentsline {subsection}{\numberline {7.2.4}$\lambda /2-$Pl\IeC {\"a}ttchen}{51}{subsection.7.2.4}
-\contentsline {subsection}{\numberline {7.2.5}selbstgebaut...}{52}{subsection.7.2.5}
-\contentsline {subsection}{\numberline {7.2.6}Beobachtungen}{52}{subsection.7.2.6}
+\contentsline {chapter}{\numberline {7}Ferromagnetismus}{45}{chapter.7}
+\contentsline {section}{\numberline {7.1}Vorbereitungsaufgaben}{45}{section.7.1}
+\contentsline {section}{\numberline {7.2}Durchf\IeC {\"u}hrung}{49}{section.7.2}
+\contentsline {subsection}{\numberline {7.2.1}Aufgabenstellungen}{50}{subsection.7.2.1}
+\contentsline {chapter}{\numberline {8}Polarisation des Lichts}{53}{chapter.8}
+\contentsline {section}{\numberline {8.1}Vorbereitung}{54}{section.8.1}
+\contentsline {section}{\numberline {8.2}Durchf\IeC {\"u}hrung}{58}{section.8.2}
+\contentsline {subsection}{\numberline {8.2.1}Doppelbrechung}{58}{subsection.8.2.1}
+\contentsline {subsection}{\numberline {8.2.2}Gesetz von Malus}{58}{subsection.8.2.2}
+\contentsline {subsection}{\numberline {8.2.3}$\lambda /4-$Pl\IeC {\"a}ttchen}{59}{subsection.8.2.3}
+\contentsline {subsection}{\numberline {8.2.4}$\lambda /2-$Pl\IeC {\"a}ttchen}{59}{subsection.8.2.4}
+\contentsline {subsection}{\numberline {8.2.5}selbstgebaut...}{60}{subsection.8.2.5}
+\contentsline {subsection}{\numberline {8.2.6}Beobachtungen}{60}{subsection.8.2.6}

@@ -58,3 +58,6 @@
 \contentsline {subsection}{\numberline {8.2.4}$\lambda /2-$Pl\IeC {\"a}ttchen}{59}{subsection.8.2.4}
 \contentsline {subsection}{\numberline {8.2.5}selbstgebaut...}{60}{subsection.8.2.5}
 \contentsline {subsection}{\numberline {8.2.6}Beobachtungen}{60}{subsection.8.2.6}
+\contentsline {chapter}{\numberline {9}Optisches Filtern}{61}{chapter.9}
+\contentsline {section}{\numberline {9.1}Fragen und Aufgaben}{61}{section.9.1}
+\contentsline {section}{\numberline {9.2}Durchf\IeC {\"u}hrung}{66}{section.9.2}
